@@ -1,0 +1,22 @@
+{
+  "name": "huddle-landing-page",
+  "version": "1.0.0",
+  "description": "![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrishanZ/huddle-landing-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrishanZ/huddle-landing-page/issues"
+  },
+  "homepage": "https://github.com/ChrishanZ/huddle-landing-page#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
